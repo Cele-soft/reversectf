@@ -1,0 +1,75 @@
+# Gradle
+.gradle/
+/build/
+
+# Local configuration
+/local.properties
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Keystore files
+*.keystore
+*.jks
+
+# Generated files
+captures/
+output.json
+*.ap_
+*.apk
+*.aab
+*.dex
+*.jar
+*.class
+
+# Dependency directories
+/.gradle/
+/.m2/
+/.kotlin/
+/.cxx/
+
+# Logs and crash reports
+*.log
+crashlytics/
+
+# Miscellaneous
+*.iml
+*.hprof
+.DS_Store
+Thumbs.db
+
+# NDK
+obj/
+*.so
+*.o
+*.a
+*.d
+
+# JetBrains
+.idea/
+*.ipr
+*.iws
+*.iml
+out/
+
+# Test coverage
+*.ec
+*.exec
+
+# Lint
+/lint/intermediates/
+/lint/generated/
+/lint/reports/
+
+# Firebase
+/google-services.json
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# GitHub workflows
+.github/workflows/

@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">ReverseCTF</string>
+    <string name="sampleText">SampleText</string>
+    <string name="welcome_message">Welcome to MyApp!</string>
+    <string name="btn_submit">Submit</string>
+    <string name="error_network">Network error. Please try again.</string>
+    <string name="msg_loading">Loading…</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="hint_search">Search here…</string>
+    <string name="toast_saved">Saved successfully!</string>
+    <string name="dialog_confirm_exit">Are you sure you want to exit?</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="title_settings">Settings</string>
+    <string name="msg_no_results">No results found.</string>
+    <string name="title_profile">Profile</string>
+    <string name="btn_retry">Retry</string>
+    <string name="msg_update_available">New update available!</string>
+    <string name="error_invalid_input">Invalid input. Please check again.</string>
+    <string name="label_email">Email</string>
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="msg_logged_out">You have been logged out.</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="toast_copied">Copied to clipboard!</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="msg_password_reset">Password reset link sent.</string>
+    <string name="btn_next">Next</string>
+    <string name="msg_check_internet">Check your internet connection.</string>
+    <string name="label_location">Location</string>
+    <string name="hint_enter_name">Enter your name</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="title_about">About</string>
+    <string name="label_language">Language</string>
+    <string name="msg_permission_required">Permission required to continue.</string>
+    <string name="dialog_delete_confirm">Are you sure you want to delete this?</string>
+    <string name="msg_welcome_back">Welcome back!</string>
+    <string name="label_time">Time</string>
+    <string name="msg_no_connection">No internet connection.</string>
+    <string name="label_date">Date</string>
+    <string name="hint_type_message">Type a message…</string>
+    <string name="toast_uploading">Uploading…</string>
+    <string name="btn_done">Done</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="title_help">Help</string>
+    <string name="msg_payment_success">Payment successful!</string>
+    <string name="error_unexpected">Unexpected error occurred.</string>
+    <string name="btn_logout">Log out</string>
+    <string name="text_login">Login</string>
+    <string name="text_password">Password</string>
+    <string name="label_status">Status</string>
+    <string name="button_admin_options">Admin options</string>
+    <string name="api_cloud">AAABBBCCC_NICE_TRY_ONLY_TEST</string>
+    <string name="msg_thank_you">Thank you for using our app!</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="alert_session_expired">Your session has expired. Please log in again.</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="test_login">User1984</string>
+    <string name="test_password">P@SsW0rd</string>
+    <string name="msg_processing_request">Processing your request…</string>
+    <string name="btn_skip">Skip</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="msg_new_message">You have a new message.</string>
+    <string name="btn_add_to_cart">Add to Cart</string>
+    <string name="error_no_permission">You do not have permission to perform this action.</string>
+    <string name="label_country">Country</string>
+    <string name="hint_enter_phone">Enter your phone number</string>
+    <string name="msg_item_added">Item added to your cart.</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="label_gender">Gender</string>
+    <string name="msg_verification_required">Verification required.</string>
+    <string name="btn_resend_code">Resend Code</string>
+    <string name="title_recent_activity">Recent Activity</string>
+    <string name="msg_logout_successful">You have been logged out successfully.</string>
+    <string name="label_password_confirm">Confirm Password</string>
+    <string name="hint_enter_password">Enter your password</string>
+    <string name="msg_file_downloaded">File downloaded successfully.</string>
+    <string name="btn_continue">Continue</string>
+    <string name="label_notifications_settings">Notification Settings</string>
+    <string name="toast_something_wrong">Something went wrong. Try again later.</string>
+    <string name="label_shipping_address">Shipping Address</string>
+    <string name="msg_welcome_new_user">Welcome! Let\'s get started.</string>
+    <string name="title_terms_conditions">Terms and Conditions</string>
+    <string name="label_birthday">Birthday</string>
+    <string name="msg_password_updated">Your password has been updated.</string>
+    <string name="btn_refresh">Refresh</string>
+    <string name="label_payment_method">Payment Method</string>
+    <string name="msg_please_wait">Please wait…</string>
+    <string name="dialog_exit_app">Do you want to exit the app?</string>
+    <string name="btn_later">Later</string>
+    <string name="label_subscription">Subscription</string>
+    <string name="msg_subscribe_success">You have successfully subscribed.</string>
+    <string name="label_contact_us">Contact Us</string>
+    <string name="hint_enter_feedback">Enter your feedback…</string>
+    <string name="msg_feedback_received">Thank you for your feedback!</string>
+    <string name="title_order_history">Order History</string>
+    <string name="btn_try_again">Try Again</string>
+    <string name="msg_max_attempts">Maximum attempts reached. Try again later.</string>
+    <string name="btn_update">Update</string>
+    <string name="msg_invalid_credentials">Invalid username or password.</string>
+    <string name="label_security_settings">Security Settings</string>
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="msg_feature_coming_soon">This feature is coming soon!</string>
+    <string name="label_dark_mode">Dark Mode</string>
+    <string name="msg_enable_notifications">Enable notifications to stay updated.</string>
+    <string name="toast_form_submitted">Form submitted successfully.</string>
+    <string name="title_downloads">Downloads</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Profile</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="discount">Discount:</string>
+    <string name="code">"Code: "</string>
+
+
+</resources>
