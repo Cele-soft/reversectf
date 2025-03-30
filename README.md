@@ -5,10 +5,10 @@ Mobile application for Android. This is a test application for reverse engineeri
 Additionally, there is a ready installation file in the apk directory.
 
 The first step is to get through the login screen
-![login.png](docs%2Flogin.png)
+![login.png](docs%2Flogin.png){ width=25% }
 
 The second step is to change the condition to display a flag
-![profil.png](docs%2Fprofil.png)
+![profil.png](docs%2Fprofil.png){ width=25% }
 
 The third flag is on the Developer Activity screen
 
@@ -17,10 +17,10 @@ Aplikacja mobilna na system Android. Jest to testowa aplikacja do inżynierii ws
 Dodatkowo w katalogu apk znajduje się gotowy plik instalacyjny.
 
 Pierwszym etapem jest przedostanie się przez ekran logowania
-![login.png](docs%2Flogin.png)
+![login.png](docs%2Flogin.png){ width=25% }
 
 Drugi etap polega na zamianie warunku w celu wyświetlenia flagi
-![profil.png](docs%2Fprofil.png)
+![profil.png](docs%2Fprofil.png){ width=25% }
 
 Trzecia flaga znajduje się na ekranie Developer Activity
 
