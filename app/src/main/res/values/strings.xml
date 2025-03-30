@@ -47,7 +47,7 @@
     <string name="msg_payment_success">Payment successful!</string>
     <string name="error_unexpected">Unexpected error occurred.</string>
     <string name="btn_logout">Log out</string>
-    <string name="text_login">Login</string>
+    <string name="text_log_in">Log in</string>
     <string name="text_password">Password</string>
     <string name="label_status">Status</string>
     <string name="button_admin_options">Admin options</string>

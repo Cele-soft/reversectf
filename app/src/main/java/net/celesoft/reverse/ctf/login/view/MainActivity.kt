@@ -56,7 +56,7 @@ class MainActivity : ComponentActivity() {
                         value = viewModel.login.value,
                         onValueChange = viewModel::onLoginChanged,
                         label = {
-                            Text(stringResource(R.string.text_login))
+                            Text(stringResource(R.string.text_log_in))
                         },
                         modifier = Modifier
                             .fillMaxWidth()
@@ -87,7 +87,7 @@ class MainActivity : ComponentActivity() {
                         onClick = viewModel::onLogInClicked
                     ) {
                         Text(
-                            text = stringResource(R.string.text_login)
+                            text = stringResource(R.string.text_log_in)
                         )
                     }
                 }
